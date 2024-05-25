@@ -7,3 +7,6 @@ Time complexity :
 for Before operations --> O(log N)
 for After Operations --> O(N)
 for insertion --> O(1)
+
+How to run it ?
+Give the input in input.txt file , run the main.cpp , the error_log.h is the header file which contains the designed class
